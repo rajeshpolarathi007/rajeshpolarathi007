@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajeshpolarathi007
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning .NET FULLSTACK
-- 💞️ I’m looking to collaborate on .NET CORE Framework
+- 🌱 I’m currently working in .NET FULLSTACK Development, Enthusiastic in ML and Data Science
+- 💞️ I’m looking to collaborate on ML / DataScience
 - 📫 How to reach me rajeshpolarathi11@gmail.com 
 
 <!---
